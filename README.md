@@ -7,7 +7,7 @@ Camera: realsense D435i<br />
 程序在论文发出后上传.<br />
 
 
-
+https://github.com/heqiu98/UR-robotic-arm-tracking/issues/1#issue-2482608733
 
 <video controls width="480">
   <source src="./Arm tracking.mp4" type="video/mp4">
