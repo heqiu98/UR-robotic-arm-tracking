@@ -6,4 +6,9 @@ Camera: realsense D435i<br />
 后续对控制算法进行修改，使得跟踪更快速、平滑<br />
 程序在论文发出后上传.<br />
 
-https://github.com/user-attachments/assets/7d359541-9a83-42a7-9b88-442a4af1e7e7
+
+
+
+<video controls width="480">
+  <source src="[./blog/videos/curved-fire-gun-1.mp4](https://github.com/user-attachments/assets/7d359541-9a83-42a7-9b88-442a4af1e7e7)" type="video/mp4">
+</video>
